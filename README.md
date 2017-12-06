@@ -2,7 +2,7 @@
 
 
 
-## C isolines 
+## C isolines: 
 [download .hipnc](C_isolines_001.md)
 <div>
   <a href="https://vimeo.com/246115410"><img src="C_isolines_vimeo.jpg"></a>
