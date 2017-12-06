@@ -2,7 +2,7 @@
 ---
 
 
-**C isolines:
+**C isolines:**
 [>Click to download _C_isolines_001.hipnc_<](C_isolines_001.hipnc)
 
 Animation Example: | Actual .hip file render:
