@@ -2,9 +2,9 @@
 ---
 
 
-## **C isolines:** | [download .hipnc](C_isolines_001.md)
+## C isolines:
 
-Animation Example: | Actual .hip file output:
+Animation Example: | Actual .hip file output: [download .hipnc](C_isolines_001.md)
 ------------ | -------------
 <a href="https://vimeo.com/246115410"><img src="C_isolines_vimeo.jpg"></a> | <img src="C_isolines.jpg">
 
