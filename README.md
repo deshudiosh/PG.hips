@@ -1,11 +1,11 @@
 ## This repo is to share SideFX Houdini scene setups I figured out on my way learning the software.
+---
 
 
-
-### C isolines:
-Animation Example: | Actual hip file output:
+**C isolines:** | [download .hipnc](C_isolines_001.md)
 ------------ | -------------
+Animation Example: | Actual hip file output:
 <a href="https://vimeo.com/246115410"><img src="C_isolines_vimeo.jpg"></a> | <img src="C_isolines.jpg">
-[download .hipnc](C_isolines_001.md)
+
 
 
