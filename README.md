@@ -3,5 +3,5 @@ This repo is to share SideFX houdini scene setups I figured out on my way learni
 
 
 ## C isolines
-**Replaces quad-polygons with given object.**
+**Drawing isolines from the object**
 !(C_isolines_001.jpg)
