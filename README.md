@@ -14,3 +14,10 @@ My Render: | Uploaded .hipnc file render:
 ------------ | -------------
 <a href="https://vimeo.com/pgvisuals/pg3"><img src="D_vimeo.gif"></a></br>Click for high quality! | <img src="D.gif">
 
+
+## hou7 (2018.04.24):
+##### [Click to download _hou7_001.hipnc_](hou7_001.hipnc)
+Map: | Settings: | Result:
+------------ | ------------- | -------------
+<img src="hou7_A_map.jpg"> | <img src="hou7_A_settings.jpg"> | <img src="hou7_A_result.gif">
+
