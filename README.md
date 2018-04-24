@@ -3,7 +3,7 @@
 
 
 ## C isolines (2017.12.06):
-##### [C_isolines_001.hipnc_(Right click -> Save As)](C_isolines_001.hipnc)
+##### [C_isolines_001.hipnc (Right click -> Save As)](C_isolines_001.hipnc)
 My Render: | Uploaded .hipnc file render:
 ------------ | -------------
 <a href="https://vimeo.com/246115410"><img src="C_isolines_vimeo.jpg"></a></br>Click for high quality! | <img src="C_isolines.jpg">
