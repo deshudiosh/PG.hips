@@ -21,4 +21,6 @@ Result: | Map: | Settings:
 ------------ | ------------- | -------------
 setup A:
 <img src="hou7_A_map.jpg"> | <img src="hou7_A_settings.jpg"> | <img src="hou7_A_result.gif">
+setup B:
+<img src="hou7_B_map.jpg"> | <img src="hou7_B_settings.jpg"> | <img src="hou7_B_result.gif">
 
