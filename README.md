@@ -20,6 +20,5 @@ My Render: | Uploaded .hipnc file render:
 Result: | Map: | Settings:
 ------------ | ------------- | -------------
 setup A:
------------- | ------------- | -------------
-<img src="hou7_A_result.gif"> | <img src="hou7_A_map.jpg"> | <img src="hou7_A_settings.jpg"> 
+<img src="hou7_A_map.jpg"> | <img src="hou7_A_settings.jpg"> | <img src="hou7_A_result.gif">
 
