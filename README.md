@@ -17,7 +17,7 @@ My Render: | Uploaded .hipnc file render:
 
 ## hou7 (2018.04.24):
 ##### [Click to download _hou7_001.hipnc_](hou7_001.hipnc)
-Result: | Map: | Settings:
+Map: | Settings: | Result:
 ------------ | ------------- | -------------
 setup A:
 <img src="hou7_A_map.jpg"> | <img src="hou7_A_settings.jpg"> | <img src="hou7_A_result.gif">
